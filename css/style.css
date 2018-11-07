@@ -1,3 +1,5 @@
+$grid-gutter-width: 30px 
+
 .section-form {
   width: 100vw;
   height: 100vh;
@@ -85,7 +87,7 @@ form p {
   }
 
   .section-form {
-    background-color: var(--warm-grey);
+    background-color: #777777;
     background: linear-gradient(
         0deg,
         rgba(233, 240, 233, 0.37),
